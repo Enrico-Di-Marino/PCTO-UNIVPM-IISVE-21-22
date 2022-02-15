@@ -6,3 +6,4 @@ Introduzione a M5StackC.
 
 # Giorno2)
 Programmazione M5StackC con arduino. 
+Smantellamento stampante 3D.
