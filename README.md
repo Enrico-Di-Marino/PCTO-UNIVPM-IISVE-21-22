@@ -1,4 +1,6 @@
 # PCTO-UNIVPM-IISVE-21-22
+Periodo di PCTO svolto presso l'Università Politecnica delle Marche dal 14 febbraio 2022 al 12 marzo 2022. 
+Occupazione presso LabMACS. 
 
 # Giorno 1) 14/02
 Presentazione luogo di lavoro, attività e personale. 
