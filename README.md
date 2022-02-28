@@ -22,3 +22,15 @@ Assente.
 
 # Giorno 7) 22/02
 Lavorazione su ESP32-CAM e circuito di accensione. 
+
+# Giorno 8) 23/02
+Inizio studio protocollo I2C.
+
+# Giorno 9) 24/02
+Lavorazione sul protocollo. (Collegamento Master (M5StickC) e Slave(ESP-32 CAM))
+
+# Giorno 10) 25/02
+Lavorazione sul circuito di ricarica dei pacchi batteria. (Il precedente si era bruciato. Ottimizzazione del sostitutivo, saldatura pin di collegamento)
+
+# Giorno 11) 28/02
+Implementazione del software di prova del protocollo I2C.
