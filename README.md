@@ -36,3 +36,6 @@ Lavorazione sul circuito di ricarica dei pacchi batteria. (Il precedente si era 
 
 # Giorno 11) 28/02
 Implementazione del software di prova del protocollo I2C.
+
+# Giorno 12) 01/03
+Lavorazione su I2C e metodo di spegnimento del circuito. 
