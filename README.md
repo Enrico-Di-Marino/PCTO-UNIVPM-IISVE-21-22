@@ -39,3 +39,11 @@ Implementazione del software di prova del protocollo I2C.
 
 # Giorno 12) 01/03
 Lavorazione su I2C e metodo di spegnimento del circuito. 
+
+# Giorno 13) 02/03
+Partecipazione alla lezione universitaria del Prof. Scaradozzi. Il pomeriggio assente causa FCE.
+
+# Giorno 14) 03/03
+Lavorazione su ESP32-CAM, risoluzione dei problemi derivati nel collegamento. Il pomeriggio assente causa COMAU.
+
+
