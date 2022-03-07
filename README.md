@@ -46,4 +46,11 @@ Partecipazione alla lezione universitaria del Prof. Scaradozzi. Il pomeriggio as
 # Giorno 14) 03/03
 Lavorazione su ESP32-CAM, risoluzione dei problemi derivati nel collegamento. Il pomeriggio assente causa COMAU.
 
+# Giorno 15) 04/03
+Lavorazione su I2C e ESP32-CAM.
+
+# Giorno 16) 07/03
+Riassunto e definizione del lavoro svolto e lavorazione su I2C.
+
+
 
