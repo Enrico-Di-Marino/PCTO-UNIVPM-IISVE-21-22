@@ -52,5 +52,17 @@ Lavorazione su I2C e ESP32-CAM.
 # Giorno 16) 07/03
 Riassunto e definizione del lavoro svolto e lavorazione su I2C.
 
+# Giorno 17) 08/03
+Comunicazione Master e Slave tra ESP32-CAM
+
+# Giorno 18) 09/03
+Sistemazione laboratorio e analisi programmi Master e Slave.
+
+# Giorno 19) 10/03
+Implementazione Servo al circuito tramite relè. Prova funzionamento del circuito.
+
+# Giorno 20) 11/03
+Assente causa CPS Ancona.
+
 
 
